@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Pizza",
+      "price": 899,
+      "quantity": 0
+      
+    },
+    {
+      "name": "MoMo",
+      "price": 299,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Water 500 ml",
+      "price": 50,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Soup Noodles",
+      "price": 290,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Noodles",
+      "price": 160,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Naga Burgar",
+      "price": 256,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Cake",
+      "price": 800,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Drinks",
+      "price": 105,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Soup",
+      "price": 340,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Fries",
+      "price": 99,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Chicen Fry",
+      "price": 155,
+      "quantity": 0
+      
+    },
+    {
+      "name": "Burgar",
+      "price": 250,
+      "quantity": 0
+      
+    }
+  ]
+   
