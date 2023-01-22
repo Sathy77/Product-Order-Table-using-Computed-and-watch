@@ -1,37 +1,6 @@
-<!-- <template>
-  <div> -->
-
-    <!-- {{ $vuetify.breakpoint.name }} -->
-
-    <!-- <v-row> -->
-
-
-      <!-- <v-col cols="12" xs="12" sm="6" md="4" lg="3"><v-card>1</v-card></v-col>
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3"><v-card>2</v-card></v-col>
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3"><v-card>3</v-card></v-col>
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3"><v-card>4</v-card></v-col>
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3"><v-card>5</v-card></v-col>
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3"><v-card>6</v-card></v-col>
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3"><v-card>7</v-card></v-col> -->
-
-      <!-- <v-col cols="12" lg="3"><v-card>Item Name</v-card></v-col>
-      <v-col cols="12" lg="3"><v-card>Unit Price</v-card></v-col>
-      <v-col cols="12" lg="3"><v-card>Unit Price</v-card></v-col> -->
-
-
-    <!-- </v-row> -->
-
-
-
-  <!-- </div>
-</template> -->
-
 <template>
     <div>
       <!-- {{ mullQuntityPrice }} -->
-      {{ discount }}
-      {{ vat }}
-      
   
       <h1> Order Table </h1>
       <v-simple-table dark>
